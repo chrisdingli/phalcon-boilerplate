@@ -1,11 +1,4 @@
 <?php
-/*
-[database]
-host        = localhost
-username    = root
-password    = root
-name        = phalcon
-*/
 
 $application = array(
     'controllersDir'  => '../app/controllers/',
