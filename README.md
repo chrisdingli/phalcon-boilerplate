@@ -17,5 +17,5 @@ This is just a super basic boilerplate that has a few of the features I use on a
 
 ### Author
 
-- [http://ryanwalters.co](//ryanwalters.co)
-- [http://github.com/ryanwalters](//github.com/ryanwalters)
+- [http://ryanwalters.co](http://ryanwalters.co)
+- [http://github.com/ryanwalters](http://github.com/ryanwalters)
