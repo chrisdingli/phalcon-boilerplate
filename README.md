@@ -9,6 +9,12 @@
 
 This is just a super basic boilerplate that has a few of the features I use on a regular basis for my Phalcon projects.
 
+### Included
+
+- jQuery 2.1.0
+- Bootstrap 3.1.1
+- FontAwesome 4.0.3
+
 ### Author
 
 - [http://ryanwalters.co](//ryanwalters.co)
