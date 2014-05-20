@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "phalcon/incubator": "dev-master",
+        "phpunit/phpunit": "4.1.*",
+        "phpunit/dbunit": ">=1.2"
+    }
+}
